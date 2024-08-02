@@ -22,6 +22,44 @@ En laboratorios, se recomienda mantener los niveles por debajo de 5000 ppm para 
 
 ## Solución Propuesta 
 El prototipo propuesto aborda esta problematica mediante la integracion del monitoreo a traves de un sensor mq-135 que detecta niveles anormales de CO2 en el aire.
+El detector de aire de interiores es manejado principalmente por un microprocesador (Raspberry Pi 4B) que se encarga de ser un servidor, para  recibir datos de el sensor de CO", sensor de particulas, sensor de polvo y el sensor de gases para la medicion del aire en un ambiente deterinado, conectandos a un microcontrolador para el intercambio de la informacion, recopilando los datos en mysql y posterior visualizacion en NodeRED.
+
+Con la utilizacion de estos sensores se pueden identificar las zonas o estancias habilitadas en las que los niveles de dioxido de carbono, polvo, particulas y gases son superiores a los aceptables. Los sensores al detectar niveles inadmisibles ajustaran los sistemas de ventilacion y el flujo de aire a estas necesidades con el fin de obtener la adecuada renovacion y calidad de aire interior, para ello se utilizará una alarma de manera visual y auditiva mediante un le y un buzzer que notificara a los usuarios de evacuar la zona de ser necesario, un extractor y servo que abrirá las ventanas del laboratorio para mantenerla ventilada.
+
+## Objetivos Especificos
+1. Implementar sensores y dispositivos de monitoreo en tiemp real para medir la concentracion de gases nocivos liberados duarante el proceso de impresion por resina.
+2. Analizar los datos recogidos ara identificar tendencias y patrones en la liberacion de gases, permitiendo ajustes en la ventilacion y el uso de equipos de proteccion personal (EPP) para minimizar la exposición a estos contaminantes.
+
+## Materiales Necesarios
+- ESP32 DEV KIT 1
+- Raspberry Pi 4B 8gb
+- Sensor MQ-135
+- Servomotor SG90
+- Led Rojo
+- Buzzer
+- Ventilador 12V
+- 2 Resistencias 220 ohms
+
+## Servicios
+**Registro:** 
+Acceso a los datos recopilados para ver en que horarios se encuentra en optimas condiciones el ambiente de trabajo y cuales son las tareas que perjudican los niveles aceotables para una adecuada calidad de aire.
+
+## Resultados Esperados
+Con este proyecto se espera mantener a los estudiantes y/o trabajadores en un ambiente adecuado para que se realicen sus actividades de manera eficiente y cuidando su salud de enfermedades respiratorias a largo plazo por estar en contacto con agentes contaminantes, que forman parte de kos compuestos desprendidos por la resina y la estacion de soldar.
+
+## Conclusiones
+Este proyecto fue elaborado con la finalidad de mantener un analisis de datos dentro de un laboratorio cerrado, en donde constantemente se utiliza la impresión por resina, el cual libera gases a largo plazo, que son nocivos para lasalud y este escenario es escalable en la industria, oficinas, laboratorios de alta gama e incluso hogares para salvaguardar la salud de los trabajadores y ofrecer trabajos dignos y seguros.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
