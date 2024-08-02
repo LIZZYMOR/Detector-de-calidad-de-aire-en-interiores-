@@ -22,7 +22,7 @@ En laboratorios, se recomienda mantener los niveles por debajo de 5000 ppm para 
 
 ## Solución Propuesta 
 El prototipo propuesto aborda esta problematica mediante la integracion del monitoreo a traves de un sensor mq-135 que detecta niveles anormales de CO2 en el aire.
-El detector de aire de interiores es manejado principalmente por un microprocesador (Raspberry Pi 4B) que se encarga de ser un servidor, para  recibir datos de el sensor de CO", sensor de particulas, sensor de polvo y el sensor de gases para la medicion del aire en un ambiente deterinado, conectandos a un microcontrolador para el intercambio de la informacion, recopilando los datos en mysql y posterior visualizacion en NodeRED.
+El detector de aire de interiores es manejado principalmente por un microprocesador (Raspberry Pi 4B) que se encarga de ser un servidor, para  recibir datos de el sensor de CO2, sensor de particulas, sensor de polvo y el sensor de gases para la medicion del aire en un ambiente determinado, conectandos a un microcontrolador para el intercambio de la informacion, recopilando los datos en mysql y posterior visualizacion en NodeRED.
 
 Con la utilizacion de estos sensores se pueden identificar las zonas o estancias habilitadas en las que los niveles de dioxido de carbono, polvo, particulas y gases son superiores a los aceptables. Los sensores al detectar niveles inadmisibles ajustaran los sistemas de ventilacion y el flujo de aire a estas necesidades con el fin de obtener la adecuada renovacion y calidad de aire interior, para ello se utilizará una alarma de manera visual y auditiva mediante un le y un buzzer que notificara a los usuarios de evacuar la zona de ser necesario, un extractor y servo que abrirá las ventanas del laboratorio para mantenerla ventilada.
 
