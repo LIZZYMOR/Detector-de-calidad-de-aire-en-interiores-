@@ -1,6 +1,6 @@
 # Detector de calidad de aire en interiores
 Proyecto de Detector de Calidad de aire en interiores, analizado en el Laboratorio de Desarrollos Tecnológicos de la Facultad  de Ciencias Químicas e Ingeniería. 
-Este repositorio presenta un proyecto IoT con un prototipo de Detección de aire en interiores, pariendo como aplicación dentro del Laboratorio de DesarrollosTecnológicos (LabDesTec)
+Este repositorio presenta un proyecto IoT con un prototipo de Detección de aire en interiores, partiendo como punto de aplicación.
 
 ## Introducción
 En el contexto de un laboratorio cerrado que utiliza impresion por resina, es fundamental gestionar y minimizar la exposición a los gases nocivos liberados durante el proceso de impresion de piezas en 3D. Este proyecto se centra en la implementacion  de un sistema de analisis de datos robusto y conntinuo para monitorear la calidad del aire y asegurar un entorno de trabajo seguro y saludable.
