@@ -42,7 +42,7 @@ Con la utilizacion de estos sensores se pueden identificar las zonas o estancias
 
 ## Servicios
 **Registro:** 
-Acceso a los datos recopilados para ver en que horarios se encuentra en optimas condiciones el ambiente de trabajo y cuales son las tareas que perjudican los niveles aceotables para una adecuada calidad de aire.
+Acceso a los datos recopilados para ver en que horarios se encuentra en optimas condiciones el ambiente de trabajo y cuales son las tareas que perjudican los niveles aceptables para una adecuada calidad de aire.
 
 ## Resultados Esperados
 Con este proyecto se espera mantener a los estudiantes y/o trabajadores en un ambiente adecuado para que se realicen sus actividades de manera eficiente y cuidando su salud de enfermedades respiratorias a largo plazo por estar en contacto con agentes contaminantes, que forman parte de kos compuestos desprendidos por la resina y la estacion de soldar.
