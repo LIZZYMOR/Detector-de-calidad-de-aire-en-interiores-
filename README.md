@@ -40,6 +40,9 @@ Con la utilizacion de estos sensores se pueden identificar las zonas o estancias
 - Ventilador 12V
 - 2 Resistencias 220 ohms
 
+## Circuito
+![](https://github.com/LIZZYMOR/Detector-de-calidad-de-aire-en-interiores-/blob/main/imagenes/CIRCUITO%20DEAINT.png)
+
 ## Servicios
 **Registro:** 
 Acceso a los datos recopilados para ver en que horarios se encuentra en optimas condiciones el ambiente de trabajo y cuales son las tareas que perjudican los niveles aceptables para una adecuada calidad de aire.
