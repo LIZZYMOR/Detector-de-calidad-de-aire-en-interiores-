@@ -48,9 +48,9 @@ Acceso a los datos recopilados para ver en que horarios se encuentra en optimas 
 Con este proyecto se espera mantener a los estudiantes y/o trabajadores en un ambiente adecuado para que se realicen sus actividades de manera eficiente y cuidando su salud de enfermedades respiratorias a largo plazo por estar en contacto con agentes contaminantes, que forman parte de kos compuestos desprendidos por la resina y la estacion de soldar.
 
 ## Conclusiones
-Este proyecto fue elaborado con la finalidad de mantener un analisis de datos dentro de un laboratorio cerrado, en donde constantemente se utiliza la impresión por resina, el cual libera gases a largo plazo, que son nocivos para lasalud y este escenario es escalable en la industria, oficinas, laboratorios de alta gama e incluso hogares para salvaguardar la salud de los trabajadores y ofrecer trabajos dignos y seguros.
+Este proyecto fue elaborado con la finalidad de mantener un analisis de datos dentro de un laboratorio cerrado, en donde constantemente se utiliza la impresión por resina, el cual libera gases a largo plazo, que son nocivos para la salud y este escenario es escalable en la industria, oficinas, laboratorios de alta gama e incluso hogares para salvaguardar la salud de los trabajadores y ofrecer trabajos dignos y seguros.
 
-
+Este proyecto fue realizado en el marco del curso IoT Essentials Developer impartido por [Codigo IoT ](https://www.codigoiot.com/) y organizado por la [Asociación Mexicana del Internet de las Cosas](https://www.asociacioniot.org/).
 
 
 
